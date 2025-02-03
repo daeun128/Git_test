@@ -16,8 +16,5 @@ A mu gut do an hae.
 
 nak su ha nun jung e ya.
 
-<<<<<<< HEAD
 new branch logic ++
-=======
 ddo test
->>>>>>> sub8
